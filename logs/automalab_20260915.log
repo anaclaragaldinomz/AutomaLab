@@ -1,0 +1,51 @@
+2026-09-15 20:00:10 | ERRO: Pasta de origem inexistente: C:\AutomaLabTeste\origem
+2026-09-15 20:06:50 | [SIMULAÇÃO] Arquivo1.txt -> documentos/
+2026-09-15 20:06:50 | Organização concluída.
+2026-09-15 20:06:50 | RESULTADO: {'total': 1, 'por_categoria': {'documentos': 1}}
+2026-09-15 20:08:05 | [MOVIDO] Arquivo1.txt -> documentos/
+2026-09-15 20:08:05 | Organização concluída.
+2026-09-15 20:08:05 | RESULTADO: {'total': 1, 'por_categoria': {'documentos': 1}}
+2026-09-15 21:32:34 | [SIMULACAO] arquivo1.txt -> documentos/
+2026-09-15 21:32:34 | [SIMULACAO] arquivo2.txt -> documentos/
+2026-09-15 21:32:34 | [SIMULACAO] foto.jpg -> imagens/
+2026-09-15 21:32:34 | Organizacao concluida.
+2026-09-15 21:32:34 | RESULTADO [organizador]: 3 arquivo(s) processado(s).
+2026-09-15 21:33:02 | --------------------------------------------------
+2026-09-15 21:33:02 | DISCO
+2026-09-15 21:33:02 | Total: 476.0 GB
+2026-09-15 21:33:02 | Livre: 203.9 GB
+2026-09-15 21:33:02 | Usado: 57.2%
+2026-09-15 21:33:02 | --------------------------------------------------
+2026-09-15 21:33:02 | MEMORIA
+2026-09-15 21:33:02 | Total: 19.69 GB
+2026-09-15 21:33:02 | Usado: 10.64 GB (54.1%)
+2026-09-15 21:33:02 | --------------------------------------------------
+2026-09-15 21:33:02 | PROCESSOS MAIS PESADOS
+2026-09-15 21:33:03 | - MemCompression (4.8% mem)
+2026-09-15 21:33:03 | - opera.exe (4.0% mem)
+2026-09-15 21:33:03 | - opera.exe (2.5% mem)
+2026-09-15 21:33:03 | - opera.exe (2.5% mem)
+2026-09-15 21:33:03 | - opera.exe (1.9% mem)
+2026-09-15 21:33:03 | - Code.exe (1.7% mem)
+2026-09-15 21:33:03 | - Code.exe (1.7% mem)
+2026-09-15 21:33:03 | - opera.exe (1.6% mem)
+2026-09-15 21:33:03 | --------------------------------------------------
+2026-09-15 21:33:03 | Relatorio gerado.
+2026-09-15 21:33:03 | RESULTADO [monitor]: Relatorio do sistema gerado.
+2026-09-15 21:33:24 | ERRO: A pasta informada nao foi encontrada.
+2026-09-15 21:33:34 | ======== RELATORIO CONSOLIDADO ========
+2026-09-15 21:33:34 | Gerado em: 15/09/2026 21:33
+2026-09-15 21:33:34 | Arquivos analisados: 1
+2026-09-15 21:33:34 | Total de linhas: 35
+2026-09-15 21:33:34 | Arquivos:
+2026-09-15 21:33:34 |   - automalab_20260915.log: 35 linha(s)
+2026-09-15 21:33:34 | Resumo por tipo:
+2026-09-15 21:33:34 |   Organizador: 1
+2026-09-15 21:33:34 |   Simulacoes: 3
+2026-09-15 21:33:34 |   Backup: 0
+2026-09-15 21:33:34 |   Faxineiro: 0
+2026-09-15 21:33:34 |   Ignorados: 0
+2026-09-15 21:33:34 |   Erros: 2
+2026-09-15 21:33:34 | ======================================
+2026-09-15 21:33:34 | Relatorio salvo em: C:\AutomaLabTeste\relatorio_consolidado.txt
+2026-09-15 21:33:34 | RESULTADO [relatorios]: 35 linha(s) analisada(s).
